@@ -6,5 +6,5 @@
 ## This Program since 24/05/2004
 
 **View Quilt Designs**
-[![Halftone Maker](https://github.com/aabbas77-web/Halftone-Maker/releases/download/FirstRelease/HalftoneVideo.png)](https://www.youtube.com/watch?v=ecGTu8sCbYQ)
+[![Halftone Maker](https://github.com/aabbas77-web/QuiltViewer/releases/download/FirstRelease/QuiltViewerVideo.png)](https://www.youtube.com/watch?v=3Q72KdTCHJQ)
 
