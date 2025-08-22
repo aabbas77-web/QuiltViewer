@@ -1,0 +1,19 @@
+[x,y] = solve('y^2*(Sx-Tx)^2+x^2*(Sy-Ty)^2=x^2*y^2','y^2*(Ex-Tx)^2+x^2*(Ey-Ty)^2=x^2*y^2')
+ 
+x =
+ 
+[                                                                                                                                                                                                                                                                      0]
+[  1/(2*Ey*Ty-Ey^2+Sy^2-2*Sy*Ty)*(-(2*Ey*Ty-Ey^2+Sy^2-2*Sy*Ty)*(-Ex^2*Sy^2+2*Ex^2*Sy*Ty-Ex^2*Ty^2+Sx^2*Ty^2+2*Ex*Tx*Sy^2-4*Ex*Tx*Sy*Ty+2*Ex*Tx*Ty^2-2*Ey^2*Sx*Tx-Tx^2*Sy^2+2*Tx^2*Sy*Ty+Ey^2*Sx^2-2*Tx^2*Ey*Ty+Tx^2*Ey^2-2*Ey*Ty*Sx^2+4*Ey*Ty*Sx*Tx-2*Sx*Tx*Ty^2))^(1/2)]
+[ -1/(2*Ey*Ty-Ey^2+Sy^2-2*Sy*Ty)*(-(2*Ey*Ty-Ey^2+Sy^2-2*Sy*Ty)*(-Ex^2*Sy^2+2*Ex^2*Sy*Ty-Ex^2*Ty^2+Sx^2*Ty^2+2*Ex*Tx*Sy^2-4*Ex*Tx*Sy*Ty+2*Ex*Tx*Ty^2-2*Ey^2*Sx*Tx-Tx^2*Sy^2+2*Tx^2*Sy*Ty+Ey^2*Sx^2-2*Tx^2*Ey*Ty+Tx^2*Ey^2-2*Ey*Ty*Sx^2+4*Ey*Ty*Sx*Tx-2*Sx*Tx*Ty^2))^(1/2)]
+[  1/(2*Ey*Ty-Ey^2+Sy^2-2*Sy*Ty)*(-(2*Ey*Ty-Ey^2+Sy^2-2*Sy*Ty)*(-Ex^2*Sy^2+2*Ex^2*Sy*Ty-Ex^2*Ty^2+Sx^2*Ty^2+2*Ex*Tx*Sy^2-4*Ex*Tx*Sy*Ty+2*Ex*Tx*Ty^2-2*Ey^2*Sx*Tx-Tx^2*Sy^2+2*Tx^2*Sy*Ty+Ey^2*Sx^2-2*Tx^2*Ey*Ty+Tx^2*Ey^2-2*Ey*Ty*Sx^2+4*Ey*Ty*Sx*Tx-2*Sx*Tx*Ty^2))^(1/2)]
+[ -1/(2*Ey*Ty-Ey^2+Sy^2-2*Sy*Ty)*(-(2*Ey*Ty-Ey^2+Sy^2-2*Sy*Ty)*(-Ex^2*Sy^2+2*Ex^2*Sy*Ty-Ex^2*Ty^2+Sx^2*Ty^2+2*Ex*Tx*Sy^2-4*Ex*Tx*Sy*Ty+2*Ex*Tx*Ty^2-2*Ey^2*Sx*Tx-Tx^2*Sy^2+2*Tx^2*Sy*Ty+Ey^2*Sx^2-2*Tx^2*Ey*Ty+Tx^2*Ey^2-2*Ey*Ty*Sx^2+4*Ey*Ty*Sx*Tx-2*Sx*Tx*Ty^2))^(1/2)]
+ 
+ 
+y =
+ 
+[                                                                                                                                                                                                                                                                       0]
+[  1/(-Ex^2+2*Ex*Tx+Sx^2-2*Sx*Tx)*((-Ex^2+2*Ex*Tx+Sx^2-2*Sx*Tx)*(-Ex^2*Sy^2+2*Ex^2*Sy*Ty-Ex^2*Ty^2+Sx^2*Ty^2+2*Ex*Tx*Sy^2-4*Ex*Tx*Sy*Ty+2*Ex*Tx*Ty^2-2*Ey^2*Sx*Tx-Tx^2*Sy^2+2*Tx^2*Sy*Ty+Ey^2*Sx^2-2*Tx^2*Ey*Ty+Tx^2*Ey^2-2*Ey*Ty*Sx^2+4*Ey*Ty*Sx*Tx-2*Sx*Tx*Ty^2))^(1/2)]
+[  1/(-Ex^2+2*Ex*Tx+Sx^2-2*Sx*Tx)*((-Ex^2+2*Ex*Tx+Sx^2-2*Sx*Tx)*(-Ex^2*Sy^2+2*Ex^2*Sy*Ty-Ex^2*Ty^2+Sx^2*Ty^2+2*Ex*Tx*Sy^2-4*Ex*Tx*Sy*Ty+2*Ex*Tx*Ty^2-2*Ey^2*Sx*Tx-Tx^2*Sy^2+2*Tx^2*Sy*Ty+Ey^2*Sx^2-2*Tx^2*Ey*Ty+Tx^2*Ey^2-2*Ey*Ty*Sx^2+4*Ey*Ty*Sx*Tx-2*Sx*Tx*Ty^2))^(1/2)]
+[ -1/(-Ex^2+2*Ex*Tx+Sx^2-2*Sx*Tx)*((-Ex^2+2*Ex*Tx+Sx^2-2*Sx*Tx)*(-Ex^2*Sy^2+2*Ex^2*Sy*Ty-Ex^2*Ty^2+Sx^2*Ty^2+2*Ex*Tx*Sy^2-4*Ex*Tx*Sy*Ty+2*Ex*Tx*Ty^2-2*Ey^2*Sx*Tx-Tx^2*Sy^2+2*Tx^2*Sy*Ty+Ey^2*Sx^2-2*Tx^2*Ey*Ty+Tx^2*Ey^2-2*Ey*Ty*Sx^2+4*Ey*Ty*Sx*Tx-2*Sx*Tx*Ty^2))^(1/2)]
+[ -1/(-Ex^2+2*Ex*Tx+Sx^2-2*Sx*Tx)*((-Ex^2+2*Ex*Tx+Sx^2-2*Sx*Tx)*(-Ex^2*Sy^2+2*Ex^2*Sy*Ty-Ex^2*Ty^2+Sx^2*Ty^2+2*Ex*Tx*Sy^2-4*Ex*Tx*Sy*Ty+2*Ex*Tx*Ty^2-2*Ey^2*Sx*Tx-Tx^2*Sy^2+2*Tx^2*Sy*Ty+Ey^2*Sx^2-2*Tx^2*Ey*Ty+Tx^2*Ey^2-2*Ey*Ty*Sx^2+4*Ey*Ty*Sx*Tx-2*Sx*Tx*Ty^2))^(1/2)]
+ 

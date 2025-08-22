@@ -1,0 +1,1 @@
+[x,y] = solve('y^2*(Sx-Tx)^2+x^2*(Sy-Ty)^2=x^2*y^2','y^2*(Ex-Tx)^2+x^2*(Ey-Ty)^2=x^2*y^2')
